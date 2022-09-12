@@ -8,8 +8,10 @@
 
 <h2>Tecnologias utilizadas</h2>
 
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<ul>
+  <li>JavaScript</li>
+  <li>Jest</li>
+</ul>
 
 <h2>Como executar o projeto</h2>
 
